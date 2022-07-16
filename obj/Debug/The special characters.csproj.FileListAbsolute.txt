@@ -1,0 +1,8 @@
+C:\Users\Afams\Source\Repos\The special characters\The special characters\bin\Debug\The special characters.exe.config
+C:\Users\Afams\Source\Repos\The special characters\The special characters\bin\Debug\The special characters.exe
+C:\Users\Afams\Source\Repos\The special characters\The special characters\bin\Debug\The special characters.pdb
+C:\Users\Afams\Source\Repos\The special characters\The special characters\obj\Debug\The special characters.csproj.AssemblyReference.cache
+C:\Users\Afams\Source\Repos\The special characters\The special characters\obj\Debug\The special characters.csproj.SuggestedBindingRedirects.cache
+C:\Users\Afams\Source\Repos\The special characters\The special characters\obj\Debug\The special characters.csproj.CoreCompileInputs.cache
+C:\Users\Afams\Source\Repos\The special characters\The special characters\obj\Debug\The special characters.exe
+C:\Users\Afams\Source\Repos\The special characters\The special characters\obj\Debug\The special characters.pdb
